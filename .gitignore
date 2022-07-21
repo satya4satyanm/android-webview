@@ -1,0 +1,9 @@
+.gradle
+.idea
+.tmp
+caches
+daemon
+gradle
+jdks
+native
+wrapper
